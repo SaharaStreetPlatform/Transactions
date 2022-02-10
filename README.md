@@ -1,0 +1,2 @@
+# Transactions
+The entire real estate transaction process can be held on the blockchain. The submission of an offer, verification of title, the acceptance and verification of that offer, the due diligence process, the financing, and closing can all be verified and codified within a digital ledger. The use of blockchain for real estate transactions has significant implications for real estate agent and broker jobs.
